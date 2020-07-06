@@ -1,0 +1,22 @@
+Focused on improvement of SDLC(softwre development lifecycle ) by secure CI and CD
+CI -continuos integration is used where  team works on different module and build a application for such an automotive integration  we are required to use CI.
+
+CI === code commits + build
+CD ====== build +deploy 
+
+CD == an automotive approach to deploy a application  is called as continuos deployment CD. here we are not required any manual interface for deployment .
+      but in continous delivery manual interface are required for deployment.
+     
+     
+     
+     
+     
+     
+     
+    
+
+
+
+
+
+
