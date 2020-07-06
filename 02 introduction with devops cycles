@@ -1,0 +1,36 @@
+devops cycle
+colobrate + build +test + deploy + Run 
+colobration -colobration means coomunication among the team members about the ideology about the task as well as 
+methodology of implementing it .
+colobration is further divided into three stages
+application lifecycle management --- some devops tools used for it are (jira ,mingle , visual studio etc )
+communication and chat ops ---some devops tools used for it are (slacks ,hipchat etc  )
+knowledge Sharing -some devops tools used for it are (github pages ,xfluencer etc )
+Build - this section building of application
+scm/vcs(source control management it is a repository where your final code is been stored .   git ,github ,gitbucket etc )
+CI -(Jenkins ,bamboo ,teamcity etc )
+build - (Maven, gradle etc  )
+db-dbmaestro,dbdeploy etc 
+
+
+Testing - testing is all about to check that our application is performing responces according to requirements or not.
+selenium,cucumber ,Karma ,Jmeter 
+
+
+deploy 
+deployment - juju , rundeck octopus deploy etc 
+
+configuration mangement -- chef ,ansible etc
+
+artifact management - dockerhub,nuget etc
+
+
+RUN --- 
+cloud/iaas/paas-- aws , rackspace ,linode etc
+orchestration services -- dockerswarm ,mesos etc 
+bi/monitering/logging --elastic search 
+
+
+
+
+
